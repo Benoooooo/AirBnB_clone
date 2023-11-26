@@ -1,1 +1,1 @@
-THE WEB STATIC CODE
+the code is all about the web
